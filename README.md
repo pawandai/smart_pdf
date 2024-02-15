@@ -28,3 +28,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - React Hook Form / Zod
 - Stripe
 - OpenAI
+- Pinecone (Vector Database)
+
+## New things learned from this project:
+
+- React Context
+- How AI works (using OpenAI API)
+- How to work with PDF files using different libraries
+- Infinite query
+- Semantic Query
+- Vectors (1536 numbers) (similar the sentence similar the vector is)
+- Pinecone (Vector Database)
+  ...
