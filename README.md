@@ -26,6 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Tailwind CSS
 - Uploadthing
 - React Hook Form / Zod
+- Mantine Hooks
 - Stripe
 - OpenAI
 - Pinecone (Vector Database)
