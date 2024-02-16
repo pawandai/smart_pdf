@@ -4,7 +4,7 @@ import { Tooltip, TooltipProvider } from '@/components/ui/tooltip';
 import MaxWidthWrapper from '@/components/utils/MaxWidthWrapper';
 import { PLANS } from '@/config/stripe';
 import { cn } from '@/lib/utils';
-import { getKindeServerSession } from '@kinde-oss/kinde-auth-nextjs/dist/types/server';
+import { getKindeServerSession } from '@kinde-oss/kinde-auth-nextjs/server';
 import { TooltipContent, TooltipTrigger } from '@radix-ui/react-tooltip';
 import { ArrowRight, Check, HelpCircle, Minus } from 'lucide-react';
 import Link from 'next/link';

@@ -1,3 +1,5 @@
+'use client';
+
 import {
   ChevronDown,
   ChevronUp,
@@ -15,7 +17,7 @@ import { Input } from '../ui/input';
 import { useForm } from 'react-hook-form';
 import { useState } from 'react';
 import { string, z } from 'zod';
-import { zodResolver } from '@hookform/resolvers';
+import { zodResolver } from '@hookform/resolvers/zod';
 import { cn } from '@/lib/utils';
 import { DropdownMenu } from '../ui/dropdown-menu';
 import {
