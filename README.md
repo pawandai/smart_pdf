@@ -1,5 +1,7 @@
 This is the pdf chat app that uses OpenAI API for generative text.
 
+## This web app will be modified using newer and faster technologies in future
+
 ## Getting Started
 
 First, create .env file with your environment variables and then run the development server:
